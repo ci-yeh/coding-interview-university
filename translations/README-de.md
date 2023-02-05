@@ -49,27 +49,6 @@
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
-    <p>
-        <strong>Special thanks to:</strong>
-    </p>
-    <div>
-        <a href="https://algo.monster/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/algo-monster.png" width="300" alt="AlgoMonster">
-            </div>
-            <div>
-                <p>
-                    <strong>Master the technical interview without endless grinding.</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time 
-                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve 
-                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident 
-                as you walk into that interview!</sup>
-            </div>
-        </a>
-    </div>
     <hr />
 </div>
 
@@ -285,7 +264,6 @@ keinen Zugriff darauf.
 
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Teil 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)

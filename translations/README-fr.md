@@ -10,27 +10,6 @@ Traductions:
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
-    <p>
-        <strong>Special thanks to:</strong>
-    </p>
-    <div>
-        <a href="https://algo.monster/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/algo-monster.png" width="300" alt="AlgoMonster">
-            </div>
-            <div>
-                <p>
-                    <strong>Master the technical interview without endless grinding.</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time 
-                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve 
-                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident 
-                as you walk into that interview!</sup>
-            </div>
-        </a>
-    </div>
     <hr />
 </div>
 
@@ -293,7 +272,6 @@ Parfois, les cours ne sont pas en session, alors vous devez attendre quelques mo
     - [ ] [Quatre étapes à Google, sans un diplôme](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [Tableau blanc](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [Comment Google pense à propos de l'embauche, gestion, et culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
-    - [ ] [Tableau blanc efficace lors des entretiens de codage](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
     - [ ] Réussis dans une entrevue de codage:
         - [ ] [Gayle L McDowell -  Réussi l'entretien de codage (vidéo)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
         - [ ] [Réussi l'entretien de codage avec auteur Author Gayle Laakmann McDowell (vidéo)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
